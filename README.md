@@ -46,10 +46,10 @@ Taken from [this repository](https://github.com/WebDevSimplified/Learn-SQL)
 
 
 ### 11. Select the longest Song off each Album
-[My Solution](solutions/11.sql)
+[My Solution](solutions/Q11.sql)
 
 
 ### 12. Get the number of Songs for each Band
-[My Solution](solutions/12.sql)
+[My Solution](solutions/Q12.sql)
 
 

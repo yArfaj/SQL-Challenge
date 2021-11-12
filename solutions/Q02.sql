@@ -1,4 +1,4 @@
-select
-    name as 'Band Name'
-from
-    bands
+SELECT
+    name AS 'Band Name'
+FROM
+    bands;

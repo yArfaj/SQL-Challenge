@@ -1,8 +1,8 @@
-create table songs (
-    id int auto_increment,
-    name varchar(255) NOT null,
-    length float not null,
+CREATE TABLE songs (
+    id INT AUTO_INCREMENT,
+    name VARCHAR(255) NOT NULL,
+    length FLOAT NOT NULL,
     album_id INT,
-    primary key (id),
-    foreign key (album_id) references albums (id)
+    PRIMARY KEY (id),
+    FOREIGN KEY (album_id) REFERENCES albums (id)
 );

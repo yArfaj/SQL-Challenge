@@ -1,10 +1,10 @@
-select
+SELECT
     *
-from
+FROM
     albums
-where
-    release_year is not null
-order by
+WHERE
+    release_year IS NOT NULL
+ORDER BY
     name
-limit
+LIMIT
     1;
